@@ -1,0 +1,4 @@
+F:\dotnet1\serviceFabricActor\ActorTicTacToeApplication\Player\bin\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.dll
+F:\dotnet1\serviceFabricActor\ActorTicTacToeApplication\Player\obj\Debug\netcoreapp2.1\win7-x64\Player.csproj.CoreCompileInputs.cache
+F:\dotnet1\serviceFabricActor\ActorTicTacToeApplication\Player\obj\Debug\netcoreapp2.1\win7-x64\Player.AssemblyInfoInputs.cache
+F:\dotnet1\serviceFabricActor\ActorTicTacToeApplication\Player\obj\Debug\netcoreapp2.1\win7-x64\Player.AssemblyInfo.cs
